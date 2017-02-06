@@ -21,7 +21,7 @@ var config = {
             'node_module/bootstrap/dist/css/bootstrap-theme.min.css'
         ],
         dist: 'dist',
-        mainJS: 'src/main.jsx'
+        mainJS: 'src/main.js'
     }
 }
 
